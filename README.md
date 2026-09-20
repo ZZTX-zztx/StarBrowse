@@ -7,7 +7,7 @@
 | 方式 | 下载链接 |
 |------|------|
 | 在线下载页 | [StarBrowser 下载](./index.html) |
-| 123 网盘下载 | [StarBrowser_x64_Setup.exe](https://1851651951.share.123pan.cn/123pan/3pIBvd-l7BJh) |
+| 123 网盘下载（推荐） | [StarBrowser_x64_Setup.exe](https://1851651951.share.123pan.cn/123pan/3pIBvd-mM6Bh) |
 ### 主要特性
 
 - **圆角窗口设计** - 美观的现代化界面
